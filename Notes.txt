@@ -75,10 +75,10 @@ Jupyter Notebook (interactive coding & visualization)
 
 Data Handling:
 
-NumPy (numbers & math)
+NumPy (mathematical computations)
 
-Pandas (data tables & analysis)
+Pandas (data manipulation and analysis)
 
-Matplotlib & Seaborn (graphs & charts)
+Matplotlib & Seaborn (for data visualization)
 
 Machine Learning Library: Scikit-learn (ready-made ML algorithms).
