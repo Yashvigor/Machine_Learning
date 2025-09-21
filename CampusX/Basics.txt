@@ -7,3 +7,6 @@ Data Analysis:
 Data Mining:
 - finding extremely hidden patterns by ML algorithms.
 
+
+
+
