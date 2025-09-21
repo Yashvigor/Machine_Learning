@@ -1,0 +1,22 @@
+==> AI (Artificial Intelligence):-- Pattern Recognition
+i) Symbolic AI
+- knowledge system using if-else for each condition based on expert system
+
+flaws on expert system: 
+- fuzzy data
+- image classification
+- voice recognition
+
+==> ML (Machine Learning):--
+
+- not written rule or logic for each conditions. 
+- data's input and output is already there and that are feed to the system and system generates rules for that and when next the other type of input is given based on the data, it gives the output
+- better than symbolic AI 
+
+==> DL (Deep Learning):--
+
+- essentially ML inpired by neurons.
+
+- In ML input's features are needed, In DL features are detected by system's automatically.
+- In DL, when new layers of neurons are added, the efficiency of prediction power is increased. 
+- More data, Improvement in Performace increases.
