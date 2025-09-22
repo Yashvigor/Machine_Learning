@@ -1,3 +1,27 @@
 1) Supervised ML:
-- both input and output are given, finding relationship between input and output so when new input iss given, we can identify output for new input
+- In one dataset both input and output are given, finding relationship between input and output so when new input is given, we can identify output for new input.
+
+  i) Regression:
+  - target is numerical.
+
+  ii) Classification:
+  - Yes or No type 
+
+2) Unsupervised ML:
+- Only input is given. 
+   i) Clustering
+   - grouping similar type of data and categorizing them even for high dimensions.
+  ii) Dimensionality reduction
+   - remove extra columns and do feature extraction
+   - for multiple dimensions, for visualization reduce the dimensions for plotting a graph for the data
+ iii) Anamoly Reduction
+   - detecting outliers 
+  iv) Association Rule Learning
+   - data fetch and drawing conclusions
+
+3) Semi-Supervised ML:
+- no need to label all the data or doesn't have the data. labelling few data and other unlabelled data are automatically labelled. eg. Google photos categorizing   based on face
+
+4) Reinforcement ML:
+- Algorithm is known as agent and that agent trains the data such that giving rewards when the info goes right and punishing when wrong.
 
