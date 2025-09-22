@@ -1,0 +1,23 @@
+==> Batch(Offline) Machine Learning:
+- utilizing whole data together for training ML model on offline system and then deploy on server.
+- but when new techniques and updation are added but system doesn't remain up-to-date so it needs retraining of the model.
+- merging the data with new updation and test it and then put it on server periodically.
+
+Disadvantage
+i) Lots of Data: for large data as when we put whole data together, existing tools may not process
+ii) Hardware Limitation: frequent updates is not possible when connectivity is not good, so it fails.
+iii) Availability
+
+
+==> Online Machine Learning:
+- using technique, dynamically model is learning and improving  with new data, training is incremental sequentially. 
+- training dynamically while on server. 
+
+Libraries: River, Vowpal Wabbit (Reinforcement Learning)
+
+-> Learning Rate: How frequently model is trained such thar remembering old data and adding new as per required to improve model. 
+-> Out of core Learning: data is so huge so it cant be loaded once in memory so training that way is dfficult so data is divided into mini batches.
+
+Disadvantage :
+i) Tricky to use 
+ii) Risky: can't make open to learn from new data blindly biased towards incoming data. 
