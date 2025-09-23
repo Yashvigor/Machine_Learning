@@ -1,0 +1,31 @@
+--> Machine Learning form
+  i) Memorising ( Instance Based Learning )
+ ii) Generalising (understanding concept) ( Model Based Learning )
+
+
+==> Instance Based Learning:--
+
+- taking out distance between the nearest data already there to the new output, based on that deciding the output.
+- Think “memorize and compare”.
+- The system remembers all examples it has seen. When it sees something new, it compares it to what it knows and predicts based on the closest match.
+
+- Example:
+You meet a new animal and try to guess if it’s a dog. You think, “Hmm, it looks like the dogs I’ve seen before,” and decide it’s a dog.
+
+- Key idea: No rules or formulas are learned, just stored examples.
+- Common algorithms: RBF, Kernel, KNN.
+
+==> Model Based Learning:--
+- Think “learn rules and patterns”.
+- The system creates a model (like a formula or map) from the examples it sees. When it sees something new, it uses the model to make predictions.
+
+- Example:
+You learn that “animals with four legs, fur, and bark sound = dog.”
+
+Next time you see an animal, you check these rules to decide if it’s a dog.
+- Key idea: The system generalizes and doesn’t need to remember every example.
+- Common algorithms: Linear Regression, Decision Trees, Neural Networks.
+
+
+
+
