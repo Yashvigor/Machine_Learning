@@ -1,0 +1,11 @@
+1) Frame the Problem
+2) Gathering Data
+  i. files
+ ii. API
+ iii. Web Scraping
+3) Data Preprocessing
+ - cannot pass dirty data so there can be noisy,outliers,uncompatible data problems are there so before process changes are required like removing duplicates, removing missing values, removing outliers, scale.
+4) EDA (Exploratory Data Analysis)
+ - finding and studying relationship between input and output.
+ - graphs, visualization, 
+5) Feature Engineering and Selection
