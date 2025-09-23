@@ -3,11 +3,12 @@
  ii) Generalising (understanding concept) ( Model Based Learning )
 
 
-==> Instance Based Learning:--
+==> Instance Based Learning (Lazy learner):--
 
 - taking out distance between the nearest data already there to the new output, based on that deciding the output.
 - Think “memorize and compare”.
 - The system remembers all examples it has seen. When it sees something new, it compares it to what it knows and predicts based on the closest match.
+- Storage heavy as everytime we need the training data. 
 
 - Example:
 You meet a new animal and try to guess if it’s a dog. You think, “Hmm, it looks like the dogs I’ve seen before,” and decide it’s a dog.
