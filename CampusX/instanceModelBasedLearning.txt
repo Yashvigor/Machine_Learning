@@ -27,6 +27,28 @@ Next time you see an animal, you check these rules to decide if it’s a dog.
 - Key idea: The system generalizes and doesn’t need to remember every example.
 - Common algorithms: Linear Regression, Decision Trees, Neural Networks.
 
+==> Challenges in ML:-
+
+1) Data Collection: (Large Data)
+  - API or Web Scraping
+2) Insufficient Data/ Labelled Data
+3) Non- Representative Data
+     Sampling Noise
+     Sampling Bias
+4) Poor Quality Data
+5) Irrelevant Features
+- non conclusive features 
+6) Overfitting
+7) Underfitting 
+8) Software Integration 
+9) Offline Learning and Deployment 
+10) Cost Involved 
+
+ 
+
+
+
+
 
 
 
